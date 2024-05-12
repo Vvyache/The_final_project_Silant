@@ -1,0 +1,21 @@
+Логин/Пароль
+
+Админ панель Django 127.0.0.1:8000/admin :
+admin/admin
+
+Менеджер:
+manager/zaqwsx123
+
+Клиент:
+aozander/zaqwsx123
+ooofpk21/zaqwsx123
+oookomplekt/zaqwsx123
+ooomns77/zaqwsx123
+oooranskiilph/zaqwsx123
+ooormk/zaqwsx123
+trudnikov/zaqwsx123
+
+Сервисная организация:
+ooofns/zaqwsx123
+ooopromtech/zaqwsx123
+ooosilant/zaqwsx123
