@@ -45,7 +45,7 @@
 ```bash
 git clone https://github.com/Vvyache/The_final_project_Silant.git
 ```
-3. Открываем в терминале папку back создаём и активируем виртуальную среду выполнив последовательно команды:
+3. Переходим в терминале в папку back создаём и активируем виртуальную среду выполнив последовательно команды:
  ```bash 
   py -m venv venv
   ```
@@ -61,8 +61,7 @@ pip install -r requirements.txt
 ```bash
 python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
 ````
-6. Переходим в терминале в директорию App командой:
-cd App
+6. Переходим в терминале в папку App:
 
 7. Запускаем сервер командой:
 ```bash
