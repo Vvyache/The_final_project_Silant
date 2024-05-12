@@ -57,7 +57,7 @@ git clone https://github.com/Vvyache/The_final_project_Silant.git
 ```bash
 pip install -r requirements.txt
 ````
-5. Создаём секретный ключ и вставляем его в файл backend\App\App\\.env в переменную SECRET_KEY:
+5. Создаём секретный ключ и вставляем его в файл back\App\App\\.env в переменную SECRET_KEY:
 ```bash
 python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
 ````
