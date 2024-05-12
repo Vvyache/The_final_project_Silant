@@ -43,7 +43,7 @@
 
 2. Клонируем проект командой:
 ```bash
-git clone https://github.com/Vvyache/Silant
+git clone https://github.com/Vvyache/The_final_project_Silant.git
 ```
 3. Переходим в папку back создаём и активируем виртуальную среду выполнив последовательно команды:
 - cd back
