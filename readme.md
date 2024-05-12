@@ -46,8 +46,8 @@
 git clone https://github.com/Vvyache/The_final_project_Silant.git
 ```
 3. Переходим в папку back создаём и активируем виртуальную среду выполнив последовательно команды:
-- cd back
-- ```bash 
+ cd back
+ ```bash 
   py -m venv venv
   ```
 ```bash 
