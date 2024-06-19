@@ -67,43 +67,9 @@ py manage.py runserver
 ````
 
 <h2>Главная страница приложения расположена по адресу:</h2>
-http://localhost:8000
-
-
-<h2>Логины и пароли для авторизации с различными ролями и в файле users_db.txt:</h2>
+http://127.0.0.1:8000
 
 <h3>Админ панель Django:</h3>
 http://127.0.0.1:8000/admin
 
-admin/admin
-
-
-<h3>Менеджер:</h3>
-
-manager/zaqwsx123
-
-
-<h3>Клиент:</h3>
-
-aozander/zaqwsx123
-
-ooofpk21/zaqwsx123
-
-oookomplekt/zaqwsx123
-
-ooomns77/zaqwsx123
-
-oooranskiilph/zaqwsx123
-
-ooormk/zaqwsx123
-
-trudnikov/zaqwsx123
-
-
-<h3>Сервисная организация:</h3>
-
-ooofns/zaqwsx123
-
-ooopromtech/zaqwsx123
-
-ooosilant/zaqwsx123
+<h2>Логины и пароли для авторизации с различными ролями и в файле users.txt:</h2>
