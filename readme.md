@@ -46,7 +46,7 @@
 ```bash
 git clone https://github.com/Vvyache/The_final_project_Silant.git
 ```
-3. Переходим в терминале в папку back создаём и активируем виртуальную среду выполнив последовательно команды:
+3. Переходим в терминале в папку The_final_project_Silant создаём и активируем виртуальную среду выполнив последовательно команды:
  ```bash 
   py -m venv venv
   ```
@@ -54,46 +54,20 @@ git clone https://github.com/Vvyache/The_final_project_Silant.git
   venv\scripts\activate
   ```
 
-4. Устанавливаем зависимости из файла requirements.txt командой:
+4. Переходим в терминале в папку silant-master и устанавливаем зависимости из файла requirements.txt командой:
 ```bash
 pip install -r requirements.txt
 ````
-5. Создаём секретный ключ и вставляем его в файл back\App\App\\.env в переменную SECRET_KEY:
-```bash
-python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
-````
-6. Переходим в терминале в папку App:
 
-7. Запускаем сервер командой:
+5. Переходим в терминале в папку silant_proj:
+
+6. Запускаем сервер командой:
 ```bash
 py manage.py runserver
 ````
 
-8. Открываем второе окно терминала
-
-9. Переходим в терминале в директорию front
-
-10. Устанавливаем требуемые зависимости командой:
-```bash
-npm install
-```
-11. Запускаем локальный web-сервер командой:
-```bash
-npm start
-```
-
-<h2>Расположение API-документации</h2>
-
-Вся документация расположена по адресам:
-
-http://127.0.0.1:8000/redoc
-
-http://127.0.0.1:8000/swagger
-
-http://127.0.0.1:8000/swagger.json
-
 <h2>Главная страница приложения расположена по адресу:</h2>
-http://localhost:3000
+http://localhost:8000
 
 
 <h2>Логины и пароли для авторизации с различными ролями и в файле users_db.txt:</h2>
